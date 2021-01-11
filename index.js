@@ -38,4 +38,4 @@ client.on('message', ({ channel }) => {
     channel.send({ another: 'property' });
 });
 
-client.login('Nzk3NTI4Njc1NzQxMzM1NTcz.X_nydQ.KzjuuhXPpFQbG3zHx7gHDbcgheU');
+client.login('TOKEN');
